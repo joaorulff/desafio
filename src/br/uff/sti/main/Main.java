@@ -1,4 +1,4 @@
-package br.sti.uff.main;
+package br.uff.sti.main;
 
 public class Main {
 

@@ -2,7 +2,7 @@ package br.uff.sti.DAO;
 
 import java.util.HashMap;
 
-import br.sti.uff.model.Student;
+import br.uff.sti.model.Student;
 
 public class Data {
 	

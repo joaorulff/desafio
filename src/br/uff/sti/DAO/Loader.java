@@ -13,9 +13,8 @@ import com.opencsv.CSVReader;
 import com.opencsv.bean.ColumnPositionMappingStrategy;
 import com.opencsv.bean.CsvToBean;
 
-
-import br.sti.uff.model.Student;
-import br.sti.uff.utils.Paths;
+import br.uff.sti.model.Student;
+import br.uff.sti.utils.Paths;
 
 public class Loader {
 	

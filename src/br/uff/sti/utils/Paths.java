@@ -1,4 +1,4 @@
-package br.sti.uff.utils;
+package br.uff.sti.utils;
 
 public final class Paths {
 	

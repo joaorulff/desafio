@@ -1,4 +1,4 @@
-package br.sti.uff.nameGenerator;
+package br.uff.sti.nameGenerator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

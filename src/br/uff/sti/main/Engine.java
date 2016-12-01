@@ -1,12 +1,13 @@
-package br.sti.uff.main;
+package br.uff.sti.main;
 
 import java.util.Scanner;
-import br.sti.uff.model.Student;
-import br.sti.uff.nameGenerator.UsernameGenerator;
-import br.sti.uff.sender.SMSSender;
-import br.sti.uff.sender.Sender;
+
 import br.uff.sti.DAO.Data;
 import br.uff.sti.DAO.Loader;
+import br.uff.sti.model.Student;
+import br.uff.sti.nameGenerator.UsernameGenerator;
+import br.uff.sti.sender.SMSSender;
+import br.uff.sti.sender.Sender;
 
 public class Engine {
 	

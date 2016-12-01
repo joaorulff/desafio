@@ -1,6 +1,6 @@
-package br.sti.uff.sender;
+package br.uff.sti.sender;
 
-import br.sti.uff.model.Student;
+import br.uff.sti.model.Student;
 
 public interface Sender {
 	

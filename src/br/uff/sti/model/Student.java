@@ -1,4 +1,4 @@
-package br.sti.uff.model;
+package br.uff.sti.model;
 
 import java.io.Serializable;
 

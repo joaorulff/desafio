@@ -1,6 +1,6 @@
-package br.sti.uff.nameGenerator;
+package br.uff.sti.nameGenerator;
 
-import br.sti.uff.model.Student;
+import br.uff.sti.model.Student;
 
 public class UsernameGenerator {
 	
