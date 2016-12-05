@@ -1,9 +1,5 @@
 package br.uff.sti.nameGenerator;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class NameHandler {
 	
