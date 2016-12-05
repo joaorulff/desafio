@@ -13,6 +13,7 @@ public class Engine {
 	
 	private static Scanner in = new Scanner(System.in);
 	
+	
 	static{
 		
 		Loader.loadData();
