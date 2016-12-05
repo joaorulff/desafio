@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Users/joaolucasrulffdacosta/Documents/workspace_eclipse/DesafioSTI/jar/commons-lang3-3.1.jar"/>
-	<classpathentry kind="lib" path="/Users/joaolucasrulffdacosta/Documents/workspace_eclipse/DesafioSTI/jar/opencsv-3.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="jar/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jar/opencsv-3.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
