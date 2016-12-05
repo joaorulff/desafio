@@ -23,6 +23,12 @@ public class Engine {
 		
 		System.out.println("Digite a sua matrícula: ");
 		Student currentStudent = Data.getStudent(in.nextInt());
+		if(currentStudent == null){
+			
+			System.out.println("Matricula inexistente");
+			return;
+			
+		}
 		
 		if(currentStudent.getStatus().equals("Inativo")){
 			System.out.println("Aluno Inativo");
